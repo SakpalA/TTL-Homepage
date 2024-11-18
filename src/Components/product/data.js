@@ -39,23 +39,7 @@ export const data = [
         title: 'One-of-kind respiratory formula. Now comes in a powder',
         support: <FaLungs />,
         supportName: 'Lungs Support'
-    },
-    // {
-    //     id: 5,
-    //     image: product1,
-    //     name: 'UN-LOCK+',
-    //     title: 'Horserace performace muscle formula for endurance and fatigue',
-    //     support: <GiHorseHead />,
-    //     supportName: 'Endurance'
-    // },
-    // {
-    //     id: 6,
-    //     image: product2,
-    //     name: 'Flexify-HA',
-    //     title: 'Joint support formula for cartilage, flexibility and joint health',
-    //     support: <MdOutlineHealthAndSafety />,
-    //     supportName: 'Joint Health'
-    // },
+    }
 ];
 
 export default data;
