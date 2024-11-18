@@ -12,6 +12,7 @@ import Support from './Components/customer-support/Support';
 import Subscribe from './Components/subscribe/Subscribe';
 import ImgContact from './Components/contact/ImgContact';
 import FooterComp from './Components/footer/FooterComp';
+import ScrollBtn from './Components/scroll-btn/ScrollBtn';
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
       <Subscribe />
       <ImgContact />
       <FooterComp />
+      <ScrollBtn />
     </div>
   );
 }
