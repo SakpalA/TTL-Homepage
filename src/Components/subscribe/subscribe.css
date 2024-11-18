@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.subscribe-sec{
+    width: 100%;
+    background-color: #FFF2F1;
+    padding: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.subscribe-heading{
+    font-size: 40px;
+    margin: 0;
+    font-weight: 600;
+}
+
+.subscribe-ul{
+    margin: 40px 0;
+    padding: 0;
+}
+
+.subscribe-ul li{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    padding: 5px 0;
+}
+
+.subscribe-btn{
+    padding: 6px 10px;
+    border: 1px solid #df3f44;
+    color: #df3f44;
+    background-color: #ffffff;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.subscribe-btn:hover{
+    background-color: #df3f44c0;
+    color: #ffffff;
+}
+
+.subscribe-img{
+    width: 600px;
+    height: 400px;
+    background-image: url(../../Assets/Images/grass.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+    position: relative;
+}
+
+.all-box-img{
+    width: 250px;
+    position: absolute;
+    top: 22%;
+    left: 30%;
+}
+
+@media screen and (max-width: 1024px){
+    .subscribe-sec{
+        padding: 100px 20px;
+    }
+}
+
+@media screen and (max-width: 995px){
+    .subscribe-img{
+        width: 400px;
+    }
+
+    .all-box-img{
+        left: 20%;
+    }
+}
+
+@media screen and (max-width: 724px){
+    .subscribe-sec{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .subscribe-text{
+        margin-bottom: 30px;
+    }
+}
+
+@media screen and (max-width: 425px){
+    .all-box-img{
+        width: 200px;
+    }
+}

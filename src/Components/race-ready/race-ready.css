@@ -1,0 +1,36 @@
+.race-ready-sec{
+    width: 100%;
+    height: 80vh;
+    background-image: url(../../Assets/Images/image7.jpeg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    color: #ffffff;
+}
+
+.race-ready-text{
+    width: 650px;
+    padding: 100px 0 0 100px;
+}
+
+.race-ready-btn{
+    background-color: #df3f44;
+    color: #ffffff;
+    cursor: pointer;
+    padding: 6px 10px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    transition: all 0.3s ease;
+}
+
+.race-ready-btn:hover{
+    background-color: #df3f44c8;
+}
+
+@media screen and (max-width: 1024px){
+    .race-ready-text{
+        padding: 50px 20px;
+        width: fit-content;
+    }
+}
