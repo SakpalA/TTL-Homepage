@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/TTL-Homepage/static/css/main.a0f4886e.css",
+    "main.js": "/TTL-Homepage/static/js/main.d7b5f718.js",
+    "static/js/453.ff73cb36.chunk.js": "/TTL-Homepage/static/js/453.ff73cb36.chunk.js",
+    "static/media/running-horse.gif": "/TTL-Homepage/static/media/running-horse.bb646281146d8bf0b352.gif",
+    "static/media/horse-race.jpeg": "/TTL-Homepage/static/media/horse-race.d995224ef0d74035806a.jpeg",
+    "static/media/image1.png": "/TTL-Homepage/static/media/image1.9ed9f12308881d5627e2.png",
+    "static/media/grass.jpeg": "/TTL-Homepage/static/media/grass.179b6807f88380bf3d72.jpeg",
+    "static/media/image4.png": "/TTL-Homepage/static/media/image4.41c3e1a5b1fa26010ddb.png",
+    "static/media/image2.jpeg": "/TTL-Homepage/static/media/image2.c4fb9939f798c3c79a75.jpeg",
+    "static/media/drug-free.png": "/TTL-Homepage/static/media/drug-free.ea338d13d1869344fef6.png",
+    "static/media/image5.jpeg": "/TTL-Homepage/static/media/image5.59f5e45ba45d45a20697.jpeg",
+    "static/media/bleeder-shiled.png": "/TTL-Homepage/static/media/bleeder-shiled.79a9c78b2a7e8df21da1.png",
+    "static/media/image7.jpeg": "/TTL-Homepage/static/media/image7.cc35629c5063ad8d30c4.jpeg",
+    "static/media/unlock.png": "/TTL-Homepage/static/media/unlock.7502350a00238c463cba.png",
+    "static/media/image9.jpeg": "/TTL-Homepage/static/media/image9.bcd926005d0fcb76f290.jpeg",
+    "static/media/image8.jpeg": "/TTL-Homepage/static/media/image8.9edebcddea9e52920e01.jpeg",
+    "static/media/image6.jpeg": "/TTL-Homepage/static/media/image6.1e718cbf2b5e57f502a9.jpeg",
+    "static/media/horseride.jpeg": "/TTL-Homepage/static/media/horseride.5cad5274c75f60ce0b08.jpeg",
+    "static/media/image10.jpeg": "/TTL-Homepage/static/media/image10.5bf591ec119fa6ff81b1.jpeg",
+    "static/media/epo-equine.png": "/TTL-Homepage/static/media/epo-equine.8cf523cccdc2914ad1ff.png",
+    "static/media/trainer-4.jpeg": "/TTL-Homepage/static/media/trainer-4.343224b8acb718b09364.jpeg",
+    "static/media/flexify.png": "/TTL-Homepage/static/media/flexify.d0223e04465098d115f0.png",
+    "static/media/trainer-3.jpeg": "/TTL-Homepage/static/media/trainer-3.ccd399847c00ab19798c.jpeg",
+    "static/media/trainer-1.jpeg": "/TTL-Homepage/static/media/trainer-1.90b2dc29e973c5ec1824.jpeg",
+    "static/media/james-morgan.jpeg": "/TTL-Homepage/static/media/james-morgan.f1cbf42bb992006c934e.jpeg",
+    "static/media/trainer-2.jpeg": "/TTL-Homepage/static/media/trainer-2.fd023ce85cbbaf33e221.jpeg",
+    "index.html": "/TTL-Homepage/index.html",
+    "main.a0f4886e.css.map": "/TTL-Homepage/static/css/main.a0f4886e.css.map",
+    "main.d7b5f718.js.map": "/TTL-Homepage/static/js/main.d7b5f718.js.map",
+    "453.ff73cb36.chunk.js.map": "/TTL-Homepage/static/js/453.ff73cb36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0f4886e.css",
+    "static/js/main.d7b5f718.js"
+  ]
+}
