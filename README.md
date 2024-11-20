@@ -2,6 +2,7 @@
 
 ## This project is a responsive, animated homepage built with React.js that includes modern UI/UX features like transitions, hover effects, and adaptive navigation. The homepage is structured using reusable components, styled with CSS and Tailwind CSS, with clean code organization for maintainability. Product data is centralized in a JSON file, ensuring seamless data sharing across components.
 
+## [Link for assignment](https://sakpala.github.io/TTL-Homepage/)
 
 ## Setup Instruction
 
